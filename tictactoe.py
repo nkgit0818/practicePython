@@ -1,5 +1,3 @@
-import pprint
-
 def printKeisen():
     print("-+-+-")
 
